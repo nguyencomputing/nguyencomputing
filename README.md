@@ -4,7 +4,7 @@ Hi I'm James, nice seeing you here!
 
 ### About me 
 
-### Things I work with
+### Things I can code with
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,7 +13,7 @@ Hi I'm James, nice seeing you here!
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Java](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/unity-%ff69b4.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### My stats 📊
 
