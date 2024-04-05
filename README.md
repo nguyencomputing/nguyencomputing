@@ -14,8 +14,4 @@ Hi I'm James, nice seeing you here!
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-### My stats 📊
-
-![GH stats](https://github-readme-stats.vercel.app/api?username=nguyencomputing)
-
 ![View count](https://komarev.com/ghpvc/?username=nguyencomputing)
